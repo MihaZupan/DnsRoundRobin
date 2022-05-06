@@ -1,4 +1,4 @@
-# DnsRoundRobin
+# DnsRoundRobin [![NuGet](https://img.shields.io/nuget/v/DnsRoundRobin.svg)](https://www.nuget.org/packages/DnsRoundRobin/)
 
 A helper for connecting Sockets to endpoints in a round-robin fashion.
 
