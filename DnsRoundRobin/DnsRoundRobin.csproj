@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>MihaZupan</Authors>
+    <Description>DnsRoundRobinConnector is a helper for connecting Sockets to endpoints in a round-robin fashion.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MihaZupan/DnsRoundRobin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MihaZupan/DnsRoundRobin.git</RepositoryUrl>
+    <PackageId>DnsRoundRobin</PackageId>
+    <Version>0.1.0</Version>
+    <PackageTags>Dns;RoundRobin;Sockets;Connect;ConnectCallback</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
